@@ -1,4 +1,3 @@
-#include <stdio.h>
 #include <main.h>
 
 /**
@@ -8,7 +7,7 @@
  */
 int main(void)
 {
-	char alpha;
+	print_alphabet(a);
 
 	alpha = 'a';
 
