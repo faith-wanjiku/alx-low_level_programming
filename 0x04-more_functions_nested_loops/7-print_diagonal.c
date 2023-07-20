@@ -1,8 +1,9 @@
 #include "main.h"
 /**
- * print_diagonal - print a straightline using putchar of n size 
- * @n: sizeof line
+ * print_diagonal - print a straight line using putchar of n size
+ * @n: size of line
  */
+
 void print_diagonal(int n)
 {
 int x;
